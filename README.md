@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JITENDRA VERMA</h1>
+<!-- <h1 align="center">Hi 👋, I'm JITENDRA VERMA</h1>
 <h3 align="center">🚀 Full Stack Developer | React Native App Developer</h3>
 
 ---
@@ -36,4 +36,4 @@
 
 ---
 
-⭐ From Jitendra Veram
+⭐ From Jitendra Veram -->
