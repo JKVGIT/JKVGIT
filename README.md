@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BSDeveloper263&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BSDeveloper263&layout=compact&theme=radical)
-
----
-
 ## 🔥 Current Focus
 
 - 📱 Cross Platform Mobile Apps  
@@ -37,8 +29,6 @@
 ---
 
 ⭐ From Jitendra Veram -->
-
-
 
 <!-- ================= HEADER BANNER ================= -->
 <h1 align="center">Hi 👋, I'm Jitendra Verma</h1>
@@ -68,15 +58,6 @@
 # 🔥 Skills
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 ---
