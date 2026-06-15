@@ -49,7 +49,7 @@
 # 🧑‍💻 About Me
 - 🚀 Python Fullstack Developer  
 - 📱 React Native App Developer
-- - 🤖 AI Developer
+- 🤖 AI Developer
 - 🤖 AI Tools & Automation  
 - 💼 Freelancing Available  
 - 🌍 From India  
